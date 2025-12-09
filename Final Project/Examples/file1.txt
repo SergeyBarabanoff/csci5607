@@ -1,0 +1,10 @@
+# A simple file with a single sphere in the center
+output_image: file1-center-sphere.png
+film_resolution: 500 300
+material: 1 1 1 1 1 1 0 0 0 5 0 0 0 1
+sphere:  0 0 2 1
+camera_pos: 0 0 0
+camera_fwd: 0 0 -1
+camera_up:  0 1 0
+camera_fov_ha: 35
+ambient_light: 1 1 1
