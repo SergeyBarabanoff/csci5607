@@ -1,5 +1,5 @@
 //To Compile: brew install libomp -> brew install gcc -> 
-// g++-15 -fopenmp -I3A_PGA/gaalet/include -std=c++14 -O3 3A_PGA/rayTrace_pga.cpp -o ray
+// g++-15 -fopenmp -IPGA/gaalet/include -std=c++14 -O3 PGA/rayTrace_pga.cpp -o ray
 
 // ORIGINAL:
 // g++ -fsanitize=address -std=c++11 3A_PGA/rayTrace_pga.cpp -o ray
